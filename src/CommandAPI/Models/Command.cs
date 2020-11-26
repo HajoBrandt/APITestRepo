@@ -1,4 +1,4 @@
-using System.ComponentModel.Datannotations;
+using System.ComponentModel.DataAnnotations;
 
 namespace CommandAPI.Models
 {
